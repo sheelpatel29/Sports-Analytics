@@ -48,14 +48,21 @@ I looked at various interesting Insights given in the dataset through Visualizat
 ![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/soccer%20position%20mapping.png "Soccer Position Map")
 
 
-# Model Production
+# Model Building
 
-Taking the prepared data for the Machine Learning Models , I applied various models and analysed the accuracy of the attributes with reference to the position of the player. Models implemented are as follows :
-- Logistic regression  
-- KNN clustering Algorithms   
-- Decision tree classifier  
+Various steps performed during model building are as follows:
+- Train_Test_split the dataset into 70-30 Train & Test data respectively
+- Trained the data on 3 models to find out the best model to categorize the data correctly with maximum accuracy.
 
+ Models implemented are as follows :
+- Logistic regression : Accuracy:  0.8807  
+                        F1 score:  0.8806     
+- KNN clustering Algorithms : Accuracy:  0.8829  
+                              F1 score:  0.8826  
+- Decision tree classifier:  Accuracy:  0.8636  
+                             F1 score:  0.8629  
 
+- All the 3 models are performing pretty well , as their accuracy is so close. So far KNN clustering seems to be the best Model
 # Future Scope of Scaling
 
 I would have created an API , based on the model of recommendation, this can be considered as a future scope if anyone wants to expand the scope of the project.
