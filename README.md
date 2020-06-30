@@ -30,3 +30,17 @@ After reading the data into my spyder framework, now its time to clean the datas
 - Choose certain columns which will be useful for gaining relevant Insights from the dataset
 - Applied Binning and quantization ( to prepare numerical dataset for easy to ML), and created a new columns into the dataset
   * General.
+  * Mental.
+  * Mobility.
+  * Power.
+  * Shooting.
+  * Passing.
+  * Defending.
+  * Goalkeeping.
+  * Rating.
+
+# Data Visualization
+
+I looked at various interesting Insights given in the dataset through Visualization of Continuous, Numerically distinct, and combination of both variables. Few highlighted Insights are as follows:
+
+![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Univariate%20Analysis%201.png "Correlation matrix")
