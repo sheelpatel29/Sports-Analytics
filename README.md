@@ -46,3 +46,14 @@ I looked at various interesting Insights given in the dataset through Visualizat
 ![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Univariate%20Analysis%201.png "Distribution of Age")
 ![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Correlation%20matrix.png "Correlation matrix")
 ![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/soccer%20position%20mapping.png "Soccer Position Map")
+
+
+# Model Production
+
+Taking the prepared data for the Machine Learning Models , I applied various models and analysed the accuracy of the attributes with reference to the position of the player. Models implemented are as follows :
+- **Logistic regression  
+- **KNN clustering Algorithms   
+- **Decision tree classifier  
+
+
+# Future Scope of Scaling
