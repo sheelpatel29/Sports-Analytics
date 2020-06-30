@@ -45,3 +45,4 @@ I looked at various interesting Insights given in the dataset through Visualizat
 
 ![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Univariate%20Analysis%201.png "Distribution of Age")
 ![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Correlation%20matrix.png "Correlation matrix")
+![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/soccer%20position%20mapping.png "Soccer Position Map")
