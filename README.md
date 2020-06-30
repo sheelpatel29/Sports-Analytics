@@ -16,9 +16,9 @@ in as Data Science project.
 # Code and Resources used:
 
 **Python Version**: 3.7  
-**Packages**: pandas, NumPy, Sklearn, matplotlib, seaborn, pickle, plotly
-**Dataset**: https://www.kaggle.com/karangadiya/fifa19
-**Articles Referenced**: https://github.com/khanhnamle1994/world-cup-2018
+**Packages**: pandas, NumPy, Sklearn, matplotlib, seaborn, pickle, plotly  
+**Dataset**: https://www.kaggle.com/karangadiya/fifa19  
+**Articles Referenced**: https://github.com/khanhnamle1994/world-cup-2018  
 
 
 # Data cleaning
@@ -29,4 +29,4 @@ After reading the data into my spyder framework, now its time to clean the datas
 - Created a loop to iterate through all the rows and find out if there is basic math's to be conducted , such as addition and Subtraction
 - Choose certain columns which will be useful for gaining relevant Insights from the dataset
 - Applied Binning and quantization ( to prepare numerical dataset for easy to ML), and created a new columns into the dataset
-..* General.
+  * General.
