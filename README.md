@@ -51,9 +51,9 @@ I looked at various interesting Insights given in the dataset through Visualizat
 # Model Production
 
 Taking the prepared data for the Machine Learning Models , I applied various models and analysed the accuracy of the attributes with reference to the position of the player. Models implemented are as follows :
-- **Logistic regression  
-- **KNN clustering Algorithms   
-- **Decision tree classifier  
+-  **Logistic regression  
+-  **KNN clustering Algorithms   
+-  **Decision tree classifier  
 
 
 # Future Scope of Scaling
