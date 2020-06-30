@@ -1,5 +1,5 @@
 # Sports Analytics and Machine Learning - Project overview
- FIFA 19 is a soccer game released by EA Sports.
+ FIFA 19 is a Football Video game created by EA Sports.
 
 In this project, I have performed various data-cleaning techniques , Data-Visualization techniques and Machine Learning algorithms.
 Going through this project you will recognize the "Data Science Project-from scratch" ideology and would help you understand some of the core steps involved
