@@ -55,9 +55,9 @@ Various steps performed during model building are as follows:
 - Trained the data on 3 models to find out the best model to categorize the data correctly with maximum accuracy.
 
  Models implemented are as follows :
-- Logistic regression : Accuracy:  0.8807 | F1 score:  0.8806     
-- KNN clustering Algorithms : Accuracy:  0.8829 | F1 score:  0.8826  
-- Decision tree classifier:  Accuracy:  0.8636 | F1 score:  0.8629  
+  *  Logistic regression : **Accuracy:  0.8807 | F1 score:  0.8806**     
+  *  KNN clustering Algorithms : **Accuracy:  0.8829 | F1 score:  0.8826**  
+  *  Decision tree classifier:  **Accuracy:  0.8636 | F1 score:  0.8629**  
 
 - All the 3 models are performing pretty well , as their accuracy is so close. So far KNN clustering seems to be the best Model
 # Future Scope of Scaling
