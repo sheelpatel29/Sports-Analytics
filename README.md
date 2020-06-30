@@ -58,4 +58,4 @@ Taking the prepared data for the Machine Learning Models , I applied various mod
 
 # Future Scope of Scaling
 
-I Would have created an API , based on the model of recommendation, this can be considered as a future scope if anyone wants to expand the scope of the project.
+I would have created an API , based on the model of recommendation, this can be considered as a future scope if anyone wants to expand the scope of the project.
