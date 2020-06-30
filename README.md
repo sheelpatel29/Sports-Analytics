@@ -11,7 +11,7 @@ in as Data Science project.
 - Preformed Data Cleaning techniques on 20000 player dataset , including all the attributes of the players with reference to their preferred position
 - Optimzed **Logistic regression, Decision tree Model and KNN model using GridsearchCV** to reach the max model accuracy.
 - Performed **Binning or quantization** methodology to reduce the categorical variable in the dataset, which in turn are useful for Machine Learning
-
+- Statistically presented the **best playing 11** for a given **club or a country** based on the Overall & Potential of a given player respective of the formation of the team.
 
 # Code and Resources used:
 
@@ -51,9 +51,11 @@ I looked at various interesting Insights given in the dataset through Visualizat
 # Model Production
 
 Taking the prepared data for the Machine Learning Models , I applied various models and analysed the accuracy of the attributes with reference to the position of the player. Models implemented are as follows :
--  **Logistic regression  
--  **KNN clustering Algorithms   
--  **Decision tree classifier  
+- Logistic regression  
+- KNN clustering Algorithms   
+- Decision tree classifier  
 
 
 # Future Scope of Scaling
+
+I Would have created an API , based on the model of recommendation, this can be considered as a future scope if anyone wants to expand the scope of the project.
