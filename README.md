@@ -43,5 +43,4 @@ After reading the data into my spyder framework, now its time to clean the datas
 
 I looked at various interesting Insights given in the dataset through Visualization of Continuous, Numerically distinct, and combination of both variables. Few highlighted Insights are as follows:
 
-![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Univariate%20Analysis%201.png "Distribution of Age")
-![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Univariate%20Analysis%201.png "Distribution of Age")
+![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Univariate%20Analysis%201.png "Distribution of Age")![alt text](https://github.com/sheelpatel29/Sports-Analytics/blob/master/Univariate%20Analysis%201.png "Distribution of Age")
