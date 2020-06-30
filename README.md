@@ -15,7 +15,7 @@ in as Data Science project.
 
 # Code and Resources used:
 
-**Python Version**: 3.7
+**Python Version**: 3.7  
 **Packages**: pandas, NumPy, Sklearn, matplotlib, seaborn, pickle, plotly
 **Dataset**: https://www.kaggle.com/karangadiya/fifa19
 **Articles Referenced**: https://github.com/khanhnamle1994/world-cup-2018
